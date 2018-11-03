@@ -1,0 +1,93 @@
+.shashi
+{
+	width:800px;
+	height:auto;
+	border-style: groove;
+}
+.headerpart
+{
+	width:800px;
+	height:170px;
+	border-style: groove;
+	background-color: rgb(12,100,198);
+    background-image: url("images/paper.gif");
+    background-repeat:no-repeat;
+} 
+.linkspart
+{
+	width:800px;
+	height:25px;
+	margin-top:5px;
+	background-color: rgb(12,100,198);
+	border-style: groove;
+}
+.bodypart
+{
+	width:800px;
+	height:600px; 
+	border-style: groove;
+	margin-top:5px;
+}
+
+
+.linkspart a
+{
+	color :rgb(245,246,251);
+text-decoration: none;	
+}
+.linkspart a:hover
+{
+	background-color: rgb(245,246,251); 
+	color :rgb(12,100,198);
+}
+.bodypart
+{
+	width:800px;
+	height:600px; 
+	border-style: groove;
+	margin-top:5px;
+}
+.bodypart .imagepart
+{
+	width: 550px;
+	height:250px;
+	border-style: groove;
+	background-image:url("images/paper.gif");
+	 background-repeat:no-repeat;
+	 display:inline-block;
+}
+.bodypart .newspart h2
+{
+	color:green;
+	margin-left:10px;
+}
+.bodypart .newspart
+{
+	width: 220px;
+	height:580px;
+	border-style: groove;
+	float:right;
+}
+.bodypart .newspart .news
+{
+	width:210px;
+	height:500px;
+	
+}
+.bodypart .newspart .news h4
+{
+	color:blue;
+}
+.bodypart h3
+{
+	color:blue;
+	text-align:center;
+}
+.footerpart
+{
+	width:800px;
+	height:25px;
+	margin-top:5px;
+	background-color: rgb(12,100,198);
+	border-style: groove;
+}
